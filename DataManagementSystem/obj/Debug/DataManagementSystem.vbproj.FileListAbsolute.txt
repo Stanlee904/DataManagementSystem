@@ -1,0 +1,446 @@
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.frmDataInserter.resources
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.Resources.resources
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.GenerateResource.cache
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.exe.licenses
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CoreCompileInputs.cache
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.AssemblyReference.cache
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.exe.config
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.exe
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.pdb
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\Oracle.DataAccess.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Buffers.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Memory.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Json.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Buffers.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Memory.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Json.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CopyComplete
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.exe
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.xml
+D:\VBNET 자료분석시스템\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.pdb
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.AssemblyReference.cache
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.frmDataInserter.resources
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.Resources.resources
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.GenerateResource.cache
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.exe.licenses
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CoreCompileInputs.cache
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DataManagementSystem.exe.config
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DataManagementSystem.exe
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DataManagementSystem.pdb
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DataManagementSystem.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\Oracle.DataAccess.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Buffers.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Memory.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Text.Json.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Buffers.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Memory.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Text.Json.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CopyComplete
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.exe
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.xml
+D:\SVN\VBNET_자료관리시스템\DataManagementSystem\obj\Debug\DataManagementSystem.pdb
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DataManagementSystem.exe.config
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DataManagementSystem.exe
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DataManagementSystem.pdb
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DataManagementSystem.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\Oracle.DataAccess.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Buffers.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Memory.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Text.Json.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Buffers.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Memory.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Text.Json.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.AssemblyReference.cache
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.frmDataInserter.resources
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.MDI_DMS.resources
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.Resources.resources
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.GenerateResource.cache
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.exe.licenses
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CoreCompileInputs.cache
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CopyComplete
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.exe
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.xml
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.pdb
+D:\코드수정모음\VBNET_자료관리시스템(MDI 폼 전환 작업 진행 시작 _20230215)\DataManagementSystem\obj\Debug\DataManagementSystem.frm_LstAsk.resources
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.exe.config
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.exe
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.pdb
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DataManagementSystem.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\Oracle.DataAccess.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Buffers.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Memory.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Json.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Data.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Buffers.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Memory.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Text.Json.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.frmDataInserter.resources
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.MDI_DMS.resources
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.frm_LstAsk.resources
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.Resources.resources
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.GenerateResource.cache
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.exe.licenses
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CoreCompileInputs.cache
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.vbproj.CopyComplete
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.exe
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.xml
+D:\VBNET_DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.pdb
