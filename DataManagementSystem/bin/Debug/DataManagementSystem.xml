@@ -1,0 +1,967 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:DataManagementSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DataManagementSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DataManagementSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:DataManagementSystem.Agent.#cctor">
+ <summary>
+ Constructor
+  - 2014.09.23 박병조: 환경변수에 NLS_LANG을 자동으로 등록하게 수정
+ </summary>
+ <remarks>공유 생성자. Private Shared인 m_Conn 멤버변수는 이 함수에서 단 한번만 Connect된 후 cmBasic.BIZ_Agent.closeConnection()함수를 호출하기 전 까지 Connection이 유지됨</remarks>
+  GN 
+</member>
+<member name="M:DataManagementSystem.Agent.#ctor(System.Boolean)">
+ <summary>
+ Constructor
+ </summary>
+ <param name="bUseTransaction">트랜잭션 사용</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.getConn">
+ <summary>
+ Connection 조회
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.openConn">
+ <summary>
+ Open Connection
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.closeConn">
+ <summary>
+ Close Connection
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.endConn">
+ <summary>
+ DB 연결 종료
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.setTrans(System.Boolean)">
+ <summary>
+ 트랜잭션 설정 함수
+ </summary>
+ <returns>0:정상처리, -1:오류</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.commitTrans">
+ <summary>
+ Transaction Commit
+ </summary>
+ <returns>0:정상처리, -1:오류, 1:m_Trans가 Nothing</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.rollbackTrans">
+ <summary>
+ Transaction Rollback
+ </summary>
+ <returns>0:정상처리, -1:오류, 1:m_Trans가 Nothing</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.selectScalar(System.String@,System.String[],System.Boolean)">
+ <summary>
+ 쿼리를 실행하고 쿼리에서 반환된 결과 집합의 첫 번째 행의 첫 번째 열을 반환. 추가 열이나 행은 무시.
+ </summary>
+ <param name="sSQL">실행할 SQL 문</param>
+ <param name="sParams">바인드 변수에 할당될 인수 배열</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>결과 집합의 첫 행의 첫 열 또는 결과 집합이 비어있을 경우 Nothing</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.selectScalar_dicParams(System.String@,System.Collections.Generic.Dictionary{System.String,System.String},System.Boolean)">
+ <summary>
+ 쿼리를 실행하고 쿼리에서 반환된 결과 집합의 첫 번째 행의 첫 번째 열을 반환. 추가 열이나 행은 무시.
+ </summary>
+ <param name="sSQL">실행할 SQL 문</param>
+ <param name="dicParams">매개변수에 대한 변수명-값 Dictionary</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>결과 집합의 첫 행의 첫 열 또는 결과 집합이 비어있을 경우 Nothing</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.selectData(System.String@,System.String[],System.Boolean)">
+ <summary>
+ 쿼리를 실행하고 쿼리에서 반환된 결과 집합 반환
+ </summary>
+ <param name="sSQL">실행할 SQL 문</param>
+ <param name="sParams">바인드 변수에 할당될 인수 배열</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>쿼리를 실행하고 쿼리에서 반환된 결과 집합. 비어있을 경우 Nothing</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.selectData2(System.String@,System.Collections.Generic.Dictionary{System.String,System.String},System.Boolean)">
+ <summary>
+ 쿼리를 실행하고 쿼리에서 반환된 결과 집합 반환
+ </summary>
+ <param name="sSQL">실행할 SQL 문</param>
+ <param name="dicParams">매개변수에 대한 변수명-값 Dictionary</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>쿼리를 실행하고 쿼리에서 반환된 결과 집합. 비어있을 경우 Nothing</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.execute(System.String@,System.String[],System.Boolean,System.Boolean)">
+ <summary>
+ SQL 문을 실행하고 영향을 받는 행의 수를 반환
+ </summary>
+ <param name="sSQL">실행할 SQL 문</param>
+ <param name="sParams">바인드 변수에 할당될 인수 배열</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>영향 받는 행의 수</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Agent.execute2(System.String@,System.Collections.Generic.Dictionary{System.String,System.String},System.Boolean,System.Boolean)">
+ <summary>
+ SQL 문을 실행하고 영향을 받는 행의 수를 반환
+ </summary>
+ <param name="sSQL">실행할 SQL 문</param>
+ <param name="dicParams">>매개변수에 대한 변수명-값 Dictionary</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>영향 받는 행의 수</returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:DataManagementSystem.DB_Agent.endConn">
+ <summary>
+ DB 연결 객체 소멸자
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.checkConn">
+ <summary>
+ Check Connection
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.openConn">
+ <summary>
+ Close Connection
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.closeConn">
+ <summary>
+ Close Connection
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.beginTrans">
+ <summary>
+ 트랜잭션을 생성하기 위하여 트랜잭션을 생성하는 함수
+ </summary>
+ <returns>0:정상처리, -1:오류</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.endTrans">
+ <summary>
+ 트랜잭션 사용 후 트랜잭션을 초기화 시키는 함수
+ </summary>
+ <returns>0:정상처리, -1:오류</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.commitTrans">
+ <summary>
+ 현재 트랜잭션 Commit
+ </summary>
+ <returns>0:정상처리, -1:오류, 1:트랜잭션이 시작되지 않았음(오류)</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.rollbackTrans">
+ <summary>
+ 현재 트랜잭션 rollback
+ </summary>
+ <returns>0:정상처리, -1:오류, 1:트랜잭션이 시작되지 않았음(오류)</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.getData(System.String@,System.String[],System.Boolean)">
+ <summary>
+ SQL 데이터 조회
+ </summary>
+ <param name="sSQL">SQL문의 변수명</param>
+ <param name="sParams">매개변수에 대한 인수 배열</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>조회 결과 Datatable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.getData(System.String@,System.String@,System.String[],System.Boolean)">
+ <summary>
+ SQL 데이터 조회
+ </summary>
+ <param name="sSQL">SQL문의 변수명</param>
+ <param name="sSQL_Output">실행 SQL문을 저장할 변수명</param>
+ <param name="sParams">매개변수에 대한 인수 배열</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>조회 결과 Datatable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.getData2(System.String@,System.Collections.Generic.Dictionary{System.String,System.String},System.Boolean,System.Boolean)">
+ <summary>
+ SQL 데이터 조회
+ </summary>
+ <param name="sSQL">SQL문의 변수명</param>
+ <param name="dicParams">매개변수에 대한 변수명-값 Dictionary</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>조회 결과 Datatable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.getData2(System.String@,System.String@,System.Collections.Generic.Dictionary{System.String,System.String},System.Boolean,System.Boolean)">
+ <summary>
+ SQL 데이터 조회
+ </summary>
+ <param name="sSQL">SQL문의 변수명</param>
+ <param name="sSQL_Output">실행 SQL문을 저장할 변수명</param>
+ <param name="dicParams">매개변수에 대한 변수명-값 Dictionary</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>조회 결과 Datatable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.getData3(System.String@,System.Collections.Generic.Dictionary{System.String,System.String},System.String@)">
+ <summary>
+ SELECT 결과 조회
+ </summary>
+ <param name="sSQL">SQL String</param>
+ <param name="dicParams">파라미터 Dictionary</param>
+ <param name="sReplacedSQL">sSQL의 파라미터 자리를 실제 값으로 Replace한 SQL을 By Reference로 반환</param>
+ <returns>조회 결과 Datatable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.saveData(System.String@,System.String@,System.String[],System.Boolean,System.Boolean)">
+ <summary>
+ Insert/Update/Delete 등 단위 저장 SQL 수행
+ </summary>
+ <param name="sSQL">SQL문의 변수명</param>
+ <param name="sSQL_Output">실행 SQL문을 저장할 변수명</param>
+ <param name="sParams">매개변수에 대한 인수 배열</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>영향 받는 행의 수</returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DB_Agent.saveData2(System.String@,System.String@,System.Collections.Generic.Dictionary{System.String,System.String},System.Boolean,System.Boolean,System.Boolean)">
+ <summary>
+ Insert/Update/Delete 등 단위 저장 SQL 수행
+ </summary>
+ <param name="sSQL">SQL문의 변수명</param>
+ <param name="sSQL_Output">실행 SQL문을 저장할 변수명</param>
+ <param name="dicParams">매개변수에 대한 변수명-값 Dictionary</param>
+ <param name="bUseVariables">오라클 바인드 변수 사용여부</param>
+ <returns>영향 받는 행의 수</returns>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.checkExch_ETC">
+ <summary>
+ 오전 선택시 이전 영업일 조회
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.STR_SEQ_Query">
+ <summary>
+ TR의 STR_SEQ 데이터 조회
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.STR_LEN_Query">
+ <summary>
+ TR 의 STR_LEN 데이터 조회
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.TR_DAY_Query">
+ <summary>
+ TR 데이터 조회
+ TDY_DOCNT
+ TDY_DIDCNT</summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.TR_NIGHT_Query">
+ <summary>
+ TR 데이터 조회
+ TDY_DOCNT
+ TDY_DIDCNT</summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.COL_NAME_Query">
+ <summary>
+ TR의 COL_NAME 데이터 조회
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.TABLE_NAME_Query">
+ <summary>
+ TR의 테이블 명 데이터 조회
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.FindTagFinal">
+ <summary>
+ "VD" 내에 TAG:1 최종 종목으로 개수 확인
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.checkExistsAndDeleteTag">
+ <summary>
+ "VD" 내에 TAG:1 최종 종목 있을 경우 삭제
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertTodayVDdata">
+ <summary>
+ "VD" 내에 당일입수 정보로 TAG 1: 최종으로 입력.
+ </summary>
+ <remarks></remarks>
+ 투자유의채권구분코드 추가(투자유의채권구분코드|0: 해당없음 1: 지정예고 2: 지정)
+ 
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertVDdataHistory">
+ <summary>
+ "VD" 내에 당일입수 정보로 TAG 2 : HISTORY로 입력한다. 
+ </summary>
+ <remarks></remarks>
+ 
+</member>
+<member name="F:DataManagementSystem.DB_Query.checkCountOrg_ID">
+ <summary>
+ 회사코드정보 조회 V7
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.updateOrgCodeInformWithoutCpOrgId">
+ <summary>
+ 회사코드정보 update (CP_ORG_ID 가 없을 경우) V7
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.updateOrgCodeInform">
+ <summary>
+ 회사코드정보 update (CP_ORG_ID 가 있을 경우) V7
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertOrgCodeInform">
+ <summary>
+ 회사코드정보 update (CP_ORG_ID 가 있을 경우) V7
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.CheckCountIssueOrgID">
+ <summary>
+ 발행기관코드의 Count 확인 (V3)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.UpdateV3">
+ <summary>
+ 발행기관코드가 0보다 크면 update 진행
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertV3">
+ <summary>
+ 발행기관코드가 0보다 작으면 INSERT 진행
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertDataLog">
+ <summary>
+ Data Log Insert
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.finalTagCheckV2">
+ <summary>
+ (V2) TAG : 1 최종으로 종목 조회
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.finalDeleteTagV2">
+ <summary>
+ (V2) TAG : 1 최종으로 종목이 있을 경우 삭제한다. 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.finalInsertTagV2">
+ <summary>
+ (V2) 당일입수 정보로 TAG 1 최종으로 입력한다. 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.HistroyInsertTagV2">
+ <summary>
+ (V2) 당일입수 정보로 TAG 1 최종으로 입력한다. 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertV9">
+ <summary>
+ (V9) 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertV8">
+ <summary>
+ (V8) 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertKoscomV3">
+ <summary>
+ (V3) 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertKoscomV7">
+ <summary>
+ (V7) 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.CheckKRXData">
+ <summary>
+ (KRX) 국고채 프라임 총수익지수, 순가격지수 이미 있는지 확인 (현재 사용 안함)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.DeleteKRXData">
+ <summary>
+ (KRX) 국고채 프라임 총수익지수, 순가격지수 데이터 삭제 (현재 사용 안함)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.BN11TDKRXDataSearch">
+ <summary>
+ (KRX) 데이터 조회 (현재 사용 안함)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertKRXTotal_Index">
+ <summary>
+ (KRX) 국고채 프라임 총수익지수 데이터 삽입 (현재 사용 안함)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertKRXClean_Index">
+ <summary>
+ (KRX) 국고채 프라임 총수익지수, 순가격지수 데이터 삽입(현재 사용 안함)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertRetailA0027">
+ <summary>
+ (A0027) 채권소매시장 중 A0027 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertRetailA001B">
+ <summary>
+ (A0027) 채권소매시장 중 A0027 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertRetailG3027">
+ <summary>
+ (G3027) 채권소매시장 중 G3027 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertRetailG300B">
+ <summary>
+ (G3027) 채권소매시장 중 G3027 데이터 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.PBN_LOAD_BOND_INFO_Histroy">
+ <summary>
+ BN00TD00 정보를 PABNTD00에 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.PBN_LOAD_BOND_INFO_Last">
+ <summary>
+ 'Process_2 : 당일 발행물 발행정보 최종 테이블(PABNTD01)에 입력 : (PABNTD00 SEQ = 0 당일 발행물)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.LOAD_BATCH_COUNT">
+ <summary>
+ BATCH-LOAD의 작업건수를 확인한다.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.LOAD_BATCH_Today_COUNT">
+ <summary>
+ BATCH 당발의 작업건수를 확인한다.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.EXTRACT_NONIMPACT_DATA">
+ <summary>
+ BN00TD00와 PABNTD01 테이블에서 평가에 영향을 주지 않는 발행정보 추출 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.COPY_BOND_INFO_UPDATE">
+ <summary>
+ 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.COPY_BOND_INFO_INSERT">
+ <summary>
+ 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.InsertLstAkPrcValue">
+ <summary>
+ 최종호가수익률 INSERT
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.UpdateLstAkPrcValue">
+ <summary>
+ 최종호가수익률 UPDATE (정정 발생의 경우 LST_YN 변경)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.checkLstAkPrcValue">
+ <summary>
+ 값 여부 확인 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.GRIDSET">
+ <summary>
+ 오전 선택시 이전 영업일 조회
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:DataManagementSystem.DB_Query.todayIsWorkDayCheck">
+ <summary>
+ 영업일인지 확인
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addGridColumn(DevExpress.XtraGrid.Views.Grid.GridView@,System.String,System.String,System.Int32,System.Boolean,DevExpress.Utils.HorzAlignment,System.Boolean)">
+ <summary>
+ 그리드에 일반 컬럼 추가
+ </summary>
+ <param name="grdvOBJ">대상 그리드</param>
+ <param name="sColName">컬럼명</param>
+ <param name="sFieldName">DB 필드명</param>
+ <param name="iWidth">컬럼 폭</param>
+ <param name="iAlignment">컬럼 정렬</param>
+ <param name="bVisible">컬럼 보이기/숨기기</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addCheckboxColumn(DevExpress.XtraGrid.Views.Grid.GridView@,System.String,System.String,System.Int32,System.Boolean)">
+ <summary>
+ 그리드에 체크박스 컬럼 추가
+ </summary>
+ <param name="grdvOBJ">대상 그리드</param>
+ <param name="sColName">컬럼명</param>
+ <param name="sFieldName">DB 필드명</param>
+ <param name="iWidth">컬럼 폭</param>
+ <param name="bTypeString">true : value는 "1" / "0", false : value는 true/false</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.initVerticalGrid(DevExpress.XtraVerticalGrid.VGridControl@,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean)">
+ <summary>
+ Vertical Grid 초기화
+ </summary>
+ <param name="vgrdOBJ">초기화 대상 그리드</param>
+ <param name="bEditable">수정가능여부</param>
+ <param name="bVisiable">Visible 여부</param>
+ <param name="bDragRowHeaders">Row 헤더 드래그 이동 가능 여부</param>
+ <param name="bHeaderRowShow">Row 헤더 Display 여부</param>
+ <param name="iRecordsInterval">레코드 사이 간격값</param>
+ <param name="iHeaderRowWidth">Row 헤더 넓이값</param>
+ <param name="iDataRowWidth">Row 높이값</param>
+ <param name="iTreeButtonStyle">계층구조 버튼 형식(1:Explorer Style, 2:Treeview Style, 0:Default Style</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addVGridRow(DevExpress.XtraVerticalGrid.VGridControl@,System.String,System.String,System.String,System.Boolean,System.Boolean,System.Int32)">
+ <summary>
+ Vertical Grid 일반 Row 추가
+ </summary>
+ <param name="vgrdOBJ">Row가 추가 될 대상 Vertical 그리드</param>
+ <param name="sRowid">Row ID</param>
+ <param name="sCaption">헤더에 표시될 Caption</param>
+ <param name="sFieldName">Datatable Binding Field Name</param>
+ <param name="bVisible">Display 여부</param>
+ <param name="iHeight">row 높이값</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addVGridMultipleRow(DevExpress.XtraVerticalGrid.VGridControl@,System.String,System.Boolean,System.Int32,System.String,System.Int32)">
+ <summary>
+ Vertical Grid 멀티플 Row 추가
+ </summary>
+ <param name="vgrdOBJ">Row가 추가 될 대상 Vertical 그리드</param>
+ <param name="sRowid">Row ID</param>
+ <param name="bVisible">Display 여부</param>
+ <param name="iSeparatorKind">멀티플 데이터 구분자 1:Line, 2:입력스트링</param>
+ <param name="sSeparatorString">멀티플 데이터 구분자 스트링(멀티플 데이터 구분자가 입력스트링인경우 사용)</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addVGridMultipleRowMember(DevExpress.XtraVerticalGrid.Rows.MultiEditorRow@,System.String,System.String,System.Int32,System.Int32,System.Boolean,System.Int32,System.Data.DataTable@,System.String,System.String)">
+ <summary>
+ Vertical Grid 멀티플 Row 항목 추가
+ </summary>
+ <param name="mrowOBJ">항목이 추가될 멀티플 row</param>
+ <param name="sFieldName">Datatable Binding Field Name</param>
+ <param name="sCaption">헤더에 표시될 Caption</param>
+ <param name="iCellWidth">row에서 추가하는 데이터가 차지하는 cell넓이</param>
+ <param name="iWidth">row헤더에서 추가하는 데이터헤더명이 차지하는 넓이</param>
+ <param name="bReadonly">읽기전용 여부</param>
+ <param name="iRowType">추가되는 row type 1:텍스트, 2:콤보, 3:라디오, 4:체크, 5:스핀, 6:날짜</param>
+ <param name="dtblDATA">콤보, 라디오 형태일 경우 멤버 데이터테이블</param>
+ <param name="sVALUE_FIELD">데이터 목록 DataTable의 값 Field 명</param>
+ <param name="sDISPLAY_FIELD">데이터 목록 DataTable의 Display Field 명</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.initGrid(DevExpress.XtraGrid.Views.Grid.GridView@,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Boolean,System.Boolean,System.Boolean)">
+ <summary>
+ 그리드 기본 속성 지정
+ </summary>
+ <param name="grdvOBJ">대상 그리드</param>
+ <param name="bReadOnly"></param>
+ <param name="bEditable"></param>
+ <param name="bShowGroupPanel">그룹패널 보이기/숨기기 여부</param>
+ <param name="bColumnAutoWidth">자동컬럼폭 화면에 맞게 조정 여부</param>
+ <param name="bAllowCellMerge">셀병합 허용</param>
+ <param name="bMultiSelect">다중 행 선택 허용</param>
+ <param name="bHeaderTextCenter">헤더 캡션 가운데 정렬</param>
+ <param name="iSortHeadMode">Sorting 할 때 Grid를 제일위에 고정 -2013.11.21 동호추가</param>
+ <param name="bValidate">숫자형 컬럼에 빈공간 넣었을 때 예외처리 -2013.11.21 동호추가</param>
+ <param name="bDelKey">Del키 입력 허용 -2013.11.21 동호추가 
+                      (그리드 자체적으로 Key_Down 이벤트를 사용하면 쓰지 말것 - 사용해도됨. 두군데 다 이벤트 함. 문제없음 확인 -2013.11.22)
+                      (CellValueChanged나 CellValueChanging 이벤트가 있는 그리드에서는 충분히 테스트 해볼 것)    </param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addComboboxColumn(DevExpress.XtraGrid.Views.Grid.GridView@,System.String,System.String,System.Data.DataTable@,System.String,System.String,System.Int32,System.Boolean,DevExpress.Utils.HorzAlignment,System.Boolean,System.Int32)">
+ <summary>
+ 그리드에 콤보 컬럼 추가
+ </summary>
+ <param name="grdvOBJ">대상 그리드</param>
+ <param name="sColName">그리드 컬럼명</param>
+ <param name="sFieldName">그리드 컬럼에 매핑되는 DB 필드명</param>
+ <param name="dtblSource">콤보박스에 표시된 데이터 2열(코드 키-코드 이름)</param>
+ <param name="sDisplayFieldName">코드 이름</param>
+ <param name="sValueFieldName">코드 키</param>
+ <param name="iWidth">그리드 컬럼 폭</param>
+ <param name="bVisible">표시여부</param>
+ <param name="iAlignment">정렬종류 (0 : String : 좌측정렬, Number : 우측정렬 / 1: 좌측정렬 / 2:가운데정렬 / 3: 우측정렬)</param>
+ <param name="bNullValue">전체선택(Combo Blank 추가)</param>
+ <param name="iTextMode">Text 모드 추가(0: Standard, 1:HideTextEditor, 2:DisableTextEditor) Default = 2</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.initBandedGrid(DevExpress.XtraGrid.Views.BandedGrid.BandedGridView@,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Boolean,System.Boolean)">
+ <summary>
+ 그리드 기본 속성 지정
+ </summary>
+ <param name="bgrdvOBJ">대상 그리드</param>
+ <param name="bReadOnly"></param>
+ <param name="bEditable"></param>
+ <param name="bShowGroupPanel">그룹패널 보이기/숨기기 여부</param>
+ <param name="bColumnAutoWidth">자동컬럼폭 화면에 맞게 조정 여부</param>
+ <param name="bAllowCellMerge">셀병합 허용</param>
+ <param name="bMultiSelect">다중 행 선택 허용</param>
+ <param name="bHeaderTextCenter">헤더 캡션 가운데 정렬</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addBandedGridColumn(DevExpress.XtraGrid.Views.BandedGrid.BandedGridView@,DevExpress.XtraGrid.Views.BandedGrid.GridBand@,System.String,System.String,System.Int32,System.Boolean,DevExpress.Utils.HorzAlignment,System.Boolean,DevExpress.Utils.FormatType,System.String)">
+ <summary>
+ 그리드에 일반 컬럼 추가
+ </summary>
+ <param name="bgrdvOBJ">대상 그리드</param>
+ <param name="sColName">컬럼명</param>
+ <param name="sFieldName">DB 필드명</param>
+ <param name="iWidth">컬럼 폭</param>
+ <param name="bVisible">컬럼 보이기/숨기기</param>
+ <param name="iAlignment">컬럼 정렬</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addCheckboxColumn(DevExpress.XtraGrid.Views.BandedGrid.BandedGridView@,DevExpress.XtraGrid.Views.BandedGrid.GridBand@,System.String,System.String,System.Int32,System.Boolean)">
+ <summary>
+ 밴디드그리드에 체크박스 컬럼 추가
+ </summary>
+ <param name="BGridView">대상 그리드</param>
+ <param name="gridBand">대상 그리드</param>
+ <param name="sColName">컬럼명</param>
+ <param name="sFieldName">DB 필드명</param>
+ <param name="iWidth">컬럼 폭</param>
+ <param name="bTypeString">true : value는 "1" / "0", false : value는 true/false</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.setColsEditable(DevExpress.XtraGrid.Views.BandedGrid.BandedGridView@,System.String[],System.Boolean)">
+ <summary>
+ BandedGridView의 특정 Column만 키입력 가능하도록 속성 변경
+ </summary>
+ <param name="BGV">속성 변경 대상 BandedGridView</param>
+ <param name="FieldName">Editable 대상 Column의 FieldName</param>
+ <param name="bEditable">나머지 Column의 Editable 여부</param>
+ <remarks>입력받은 GridView는 강제로 ReadOnly:False / Editable:True 로 변경됨</remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.saveDefaultGrid(System.String,System.Windows.Forms.Form@,DevExpress.XtraGrid.Views.BandedGrid.BandedGridView@)">
+ <summary>
+ 그리드 컬럼 Default.xml 파일 작성 함수
+ </summary>
+ <param name="frmOBJ">그리드가 포함되어 있는 해당 폼</param>
+ <param name="bgrdvOBJ">해당 그리드 뷰</param>
+ <remarks>
+ 그리드 기본 컬럼 정보는 해당 로컬 pc의 프로그램 경로/폼명/그리드뷰명/DEFAULT.xml로 저장됨
+ 추후 유지보수시 컬럼 순서가 바뀔 수 있기 때문에
+ DEFAULT.xml파일 존재시 저장 하지 않는 기능 주석처리
+ </remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addComboboxColumn(DevExpress.XtraGrid.Views.BandedGrid.BandedGridView@,DevExpress.XtraGrid.Views.BandedGrid.GridBand@,System.String,System.String,System.Data.DataTable@,System.String,System.String,System.Int32,System.Boolean,DevExpress.Utils.HorzAlignment)">
+ <summary>
+ 그리드에 콤보 컬럼 추가
+ </summary>
+ <param name="bgrdvOBJ">대상 그리드</param>
+ <param name="gridBand">대상 그리드</param>
+ <param name="sColName">그리드 컬럼명</param>
+ <param name="sFieldName">그리드 컬럼에 매핑되는 DB 필드명</param>
+ <param name="dtblSource">콤보박스에 표시된 데이터 2열(코드 키-코드 이름)</param>
+ <param name="sDisplayFieldName">코드 이름</param>
+ <param name="sValueFieldName">코드 키</param>
+ <param name="iWidth">그리드 컬럼 폭</param>
+ <param name="bVisible">표시여부</param>
+ <param name="iAlignment">정렬종류</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addVGridDateRow(DevExpress.XtraVerticalGrid.VGridControl@,System.String,System.String,System.String,System.Boolean,System.Boolean,System.Int32)">
+ <summary>
+ Vertical Grid Date Row 추가
+ </summary>
+ <param name="vgrdOBJ">Row가 추가 될 대상 Vertical 그리드</param>
+ <param name="sRowid">Row ID</param>
+ <param name="sCaption">헤더에 표시될 Caption</param>
+ <param name="sFieldName">Datatable Binding Field Name</param>
+ <param name="bVisible">Display 여부</param>
+ <param name="iHeight">row 높이값</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addVGridComboRow(DevExpress.XtraVerticalGrid.VGridControl@,System.String,System.String,System.String,System.Data.DataTable@,System.String,System.String,System.Boolean,System.Boolean,System.Int32,System.Boolean)">
+ <summary>
+ Vertical Grid 콤보 row 추가
+ </summary>
+ <param name="vgrdOBJ">Row가 추가 될 대상 Vertical 그리드</param>
+ <param name="sRowid">Row ID</param>
+ <param name="sCaption">헤더에 표시될 Caption</param>
+ <param name="sFieldName">Datatable Binding Field Name</param>
+ <param name="dtblDATA">콤보박스 데이터 목록 DataTable</param>
+ <param name="sVALUE_FIELD">콤보박스 데이터 목록 DataTable의 값 Field 명</param>
+ <param name="sDISPLAY_FIELD">콤보박스 데이터 목록 DataTable의 Display Field 명</param>
+ <param name="bVisible">Display 여부</param>
+ <param name="iHeight">row 높이값</param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.DXGrid.addVGridSearchRow(DevExpress.XtraVerticalGrid.VGridControl@,System.String,System.String,System.String,System.Data.DataTable@,System.String,System.String,System.Boolean,System.Boolean,System.Int32)">
+ <summary>
+ Vertical Grid Search 콤보 row 추가
+ </summary>
+ <param name="vgrdOBJ">Row가 추가 될 대상 Vertical 그리드</param>
+ <param name="sRowid">Row ID</param>
+ <param name="sCaption">헤더에 표시될 Caption</param>
+ <param name="sFieldName">Datatable Binding Field Name</param>
+ <param name="dtblDATA">콤보박스 데이터 목록 DataTable</param>
+ <param name="sVALUE_FIELD">콤보박스 데이터 목록 DataTable의 값 Field 명</param>
+ <param name="sDISPLAY_FIELD">콤보박스 데이터 목록 DataTable의 Display Field 명</param>
+ <param name="bVisible">Display 여부</param>
+ <param name="iHeight">row 높이값</param>
+ <remarks></remarks>
+</member>
+<member name="T:DataManagementSystem.DXGrid_AllCheck">
+ <summary>
+ 기존꺼 ALL Check Box 수정판  -2014.03.03
+ </summary> Check Box 드레그 및 grid.Datasource의 DataTable로 Check Box Control
+ Check Box 클릭을 2번 이상해야 체크되던거 수정 -> 한번만 체크하면 바로 체크됨
+ 사용방법, 기존과 동일(넣으려는 그리드에 CHK로 체크박스를 추가하고 아래 부분에 클래스 호출하면 됨
+ (DB 조회후 System.Type.GetType("System.Boolean") 을 추가하던 루틴 제외해도 됨) 
+ 사용법은 ELN의 9911, 9514, pppFND_UNAS화면 참고하면 됨. 
+ 단, 컬럼을 Group 지었을때 체크하는 기능은 아직 미구현.. 시간되면 조금씩 더 하는 걸로....
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.FTP_Agent.Upload(System.String,System.String,System.Boolean)">
+ <summary>
+ 파일 업로드: 임시 파일명으로 파일 올린 후 RENAME 방식
+ </summary>
+ <param name="sLocalFileName"></param>
+ <param name="sTargetFileName"></param>
+ <param name="bUseBinary"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Utilities.changeDate(System.String)">
+ <summary>
+ 주어진 문자열을 날짜형식으로 변환
+ </summary>
+ <param name="dat"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Utilities.CheckDate(System.String)">
+ <summary>
+ 주어진 문자열이 날짜인지 검사
+ </summary>
+ <param name="tmp_day"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Utilities.StringCut(System.String,System.String[],System.Int32[])">
+ <summary>
+ 지정된 이름을 변수명으로 지정된 길이만큼 잘라서 Dictionary로 만든다.
+ </summary>
+ <param name="sLine"></param>
+ <param name="Name"></param>
+ <param name="len"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Utilities.Job_Begin(System.Int32,System.String)">
+ <summary>
+ 프로그램 제어
+ 선행작업이 처리가 되었는지 안 되었는지 확인
+ </summary>
+ <param name="iJOB_NUMBER"></param>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:DataManagementSystem.Utilities.Job_End(System.Int32,System.String)">
+ <summary>
+ 선행작업이 완료가 되었는지 확인
+ </summary>
+ <param name="iJOB_NUMBER"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.Utilities.DeleteLogFile">
+ <summary>
+ 로그파일 30일 이상 지난 파일에 대해서 파일 삭제 
+ </summary>
+ <param ></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.Form_Load(System.Object,System.EventArgs)">
+ <summary>
+ 폼 로드
+ </summary>
+ <param name="eventSender"></param> '이벤트를 발생된 개체
+ <param name="eventArgs"></param> '이벤트 발생에 추가적인 정보들을 담은 개체
+ Handles MyBase.Load -> 개체의 부모 개체에 Load 이벤트가 발생되면 이 프로시저를 실행하게 된다. 
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.optNight_CheckedChanged_1(System.Object,System.EventArgs)">
+ <summary>
+ 오후 버튼 클릭
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.opt_Day_CheckedChanged_1(System.Object,System.EventArgs)">
+ <summary>
+ 오전 버튼 클릭
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.opt_26_CheckedChanged_1(System.Object,System.EventArgs)">
+ <summary>
+ 26번 서버 클릭
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.opt_25_CheckedChanged_1(System.Object,System.EventArgs)">
+ <summary>
+ 25번 서버 클릭
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.cmdEditData_Click(System.Object,System.EventArgs)">
+ <summary>
+ 시작 버튼 
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.cmdExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ 종료버튼
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.initGrid">
+ <summary>
+ TRCODE DB에서 가져와서 대입
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.autoCheckTime(System.String)">
+ <summary>
+ 시간 확인해서 12시가 넘으면 오후 / 오전에 체크
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frmDataInserter.TodayFileCheckWriteCount">
+ <summary>
+ 금일 파일 체크 및 그리드에 처리 할 개수 기입
+ </summary>
+</member>
+<member name="M:DataManagementSystem.MDI_DMS.openForm(System.Windows.Forms.Form)">
+ <summary>
+ 폼 오픈 함수
+ </summary>
+ <param name="thisChild"></param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.MDI_DMS.자료관리시스템ToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ 자료관리시스템
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:DataManagementSystem.frm_LstAsk.Form_Load(System.Object,System.EventArgs)">
+ <summary>
+ 폼 로드
+ </summary>
+ <param name="eventSender"></param> '이벤트를 발생된 개체
+ <param name="eventArgs"></param> '이벤트 발생에 추가적인 정보들을 담은 개체
+ Handles MyBase.Load -> 개체의 부모 개체에 Load 이벤트가 발생되면 이 프로시저를 실행하게 된다. 
+</member>
+<member name="M:DataManagementSystem.frm_LstAsk.initGrid">
+ <summary>
+ 그리드 초기화
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frm_LstAsk.cmdEditData_Click(System.Object,System.EventArgs)">
+ <summary>
+ 시작 버튼 
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frm_LstAsk.cmdExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ 종료버튼
+ </summary>
+</member>
+<member name="M:DataManagementSystem.frm_LstAsk.bizCheck">
+ <summary>
+ 영업일 확인
+ </summary>
+</member>
+</members>
+</doc>
